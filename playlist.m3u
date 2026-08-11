@@ -1,43 +1,4 @@
 #EXTM3U
-# ─────────── Music───────────
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/LmVOSdl3ku.png", Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Tashan
-https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9XM Music
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",PTC Music
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t47SV77h/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",Epic Music
-https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="𝐌𝐮𝐬𝐢𝐜",Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png",yrf Music 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-
-# ───────────  Cartoon ───────────
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/48br-Lpr61.png", Cartoon Network
-https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids 
-https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
-
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo 
-https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 # ───────────  Bangladesh ───────────
 
@@ -193,6 +154,34 @@ https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 
+# ─────────── Music───────────
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/LmVOSdl3ku.png", Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9XM Music
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t47SV77h/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="𝐌𝐮𝐬𝐢𝐜",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png",yrf Music 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 
 -- Sports -- 
 
@@ -287,4 +276,14 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/26xDgSs9/NDTV.webp",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
+# ───────────  Cartoon ───────────
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/48br-Lpr61.png", Cartoon Network
+https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids 
+https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo 
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
