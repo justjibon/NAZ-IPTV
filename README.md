@@ -1,4 +1,4 @@
-# 📺 Bangla IPTV Playlist
+# 📺 NAZ IPTV Playlist
 
 A curated M3U IPTV playlist containing Bangladeshi, Indian, Bengali, Hindi, sports, music, news, and kids channels.
 
