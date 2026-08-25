@@ -7,7 +7,7 @@ A curated M3U IPTV playlist containing Bangladeshi, Indian, Islamic, sports, mus
 - **Playlist:** NAZ IPTV
 - **Last Update:** 25-08-2026
 - **Website:** https://justjibon.com/
-- **Total Channels:** 81
+- **Total Channels:** 89
 
 ## ✨ Features
 
