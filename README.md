@@ -2,6 +2,13 @@
 
 A curated M3U IPTV playlist containing Bangladeshi, Indian, Islamic, sports, music, news, and kids channels.
 
+## 📌 Playlist Information
+
+- **Playlist:** NAZ IPTV
+- **Last Update:** 25-08-2026
+- **Website:** https://justjibon.com/
+- **Total Channels:** 89
+
 ## ✨ Features
 
 - 🇧🇩 Bangladeshi TV channels
@@ -32,116 +39,116 @@ A curated M3U IPTV playlist containing Bangladeshi, Indian, Islamic, sports, mus
 
 ### 🇧🇩 Bangladesh
 
-- BTV
-- ATN Bangla
-- ATN News
-- Channel 1
-- Boishakhi
-- Channel i
-- N TV
-- Banglavision
-- Somoy Tv
-- Independent
-- Jamuna
-- Rajdhani
-- Channel 24
-- Ekattor HD
-- DBC News
-- SA TV
-- News 24
-- Deepto
-- Maasranga
-- Ananda
-- G TV
-- Mohona Tv
-- Bangla Tv
-- Bijoy Tv
-- Nagorik
-- Asian
-- Channel S TV
-- Deepto TV
-- Jago News 24
-- RTV Live
-- Somoy TV
-- ATN Bangla
-- ATN News
-- Channel I
-- NTV
-- Bangla Vision
-- Jamuna TV
-- DBC News HD
-- Rajdhani TV
-- Drama 24
-- Enter TV
-- SRK
-- Jago News 24
-- ME TV
-- JonmoBhumi TV
+1. BTV
+2. ATN Bangla
+3. ATN News
+4. Channel 1
+5. Boishakhi
+6. Channel i
+7. N TV
+8. Banglavision
+9. Somoy Tv
+10. Independent
+11. Jamuna
+12. Rajdhani
+13. Channel 24
+14. Ekattor HD
+15. DBC News
+16. SA TV
+17. News 24
+18. Deepto
+19. Maasranga
+20. Ananda
+21. G TV
+22. Mohona Tv
+23. Bangla Tv
+24. Bijoy Tv
+25. Nagorik
+26. Asian
+27. Channel S TV
+28. Deepto TV
+29. Jago News 24
+30. RTV Live
+31. Somoy TV
+32. ATN Bangla
+33. ATN News
+34. Channel I
+35. NTV
+36. Bangla Vision
+37. Jamuna TV
+38. DBC News HD
+39. Rajdhani TV
+40. Drama 24
+41. Enter TV
+42. SRK
+43. Jago News 24
+44. ME TV
+45. JonmoBhumi TV
 
 ### ☪️ Islamic TV
 
-- Iqra Bangla
-- Quran TV
-- Iqraa TV
+46. Iqra Bangla
+47. Quran TV
+48. Iqraa TV
 
 ### 🇮🇳 Indian Bangla
 
-- Sony Aath
-- Zee Bangla Cinema
-- Zee Tv
-- Zee Cinema HD
-- Zee Bollywood
-- HUM TV
+49. Sony Aath
+50. Zee Bangla Cinema
+51. Zee Tv
+52. Zee Cinema HD
+53. Zee Bollywood
+54. HUM TV
 
 ### 🎵 Music
 
-- Sangeet Bangla
-- 9X Tashan
-- 9X Jalwa
-- 9XM Music
-- PTC Music
-- Epic Music
-- Music India
-- Zoom
-- yrf Music
+55. Sangeet Bangla
+56. 9X Tashan
+57. 9X Jalwa
+58. 9XM Music
+59. PTC Music
+60. Epic Music
+61. Music India
+62. Zoom
+63. yrf Music
 
 ### 🏏 Sports
 
-- T Sports
-- T Sports HD
-- PTV Sports HD
-- A Sports HD
-- Ten Cricket
-- A Sports HD
-- Willow Sports
-- Willow Sports 2
+64. T Sports
+65. T Sports HD
+66. PTV Sports HD
+67. A Sports HD
+68. Ten Cricket
+69. A Sports HD
+70. Willow Sports
+71. Willow Sports 2
 
 ### 📺 Sony
 
-- Sony Television
-- Sony YaY
-- Sony Television HD
-- Sony Sab
-- Ayna TV
-- B4U Movies
+72. Sony Television
+73. Sony YaY
+74. Sony Television HD
+75. Sony Sab
+76. Ayna TV
+77. B4U Movies
 
 ### 📰 News
 
-- CNN
-- DW NEWS
-- R Plus News
-- Zee 24 Ghanta
-- Republic Bangla
-- TV9 Bangla
-- Aaj Tak HD
-- NDTV Hindi
+78. CNN
+79. DW NEWS
+80. R Plus News
+81. Zee 24 Ghanta
+82. Republic Bangla
+83. TV9 Bangla
+84. Aaj Tak HD
+85. NDTV Hindi
 
 ### 🧒 Kids & Cartoon
 
-- Nikki HD
-- Cartoon Network
-- Discovery Kids
-- Pogo
+86. Nikki HD
+87. Cartoon Network
+88. Discovery Kids
+89. Pogo
 
 ## ▶️ How to Use
 
@@ -168,3 +175,4 @@ The playlist can be used with M3U-compatible IPTV applications such as:
 
 - Channel names are listed in the same order as the current M3U playlist.
 - Stream availability depends on the individual source/server.
+- This README intentionally does not display individual stream URLs.
