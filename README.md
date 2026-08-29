@@ -1,39 +1,41 @@
 # 📺 NAZ IPTV Playlist
 
-A curated M3U IPTV playlist containing Bangladeshi, Indian, Islamic, sports, music, news, and kids channels.
+A curated M3U IPTV playlist featuring Bangladeshi, Indian, Islamic, sports, music, news, movies, and kids channels.
 
 ## 📌 Playlist Information
 
-- **Playlist:** NAZ IPTV
-- **Last Update:** 25-08-2026
-- **Website:** https://justjibon.com/
-- **Total Channels:** 89
+* **Playlist:** NAZ IPTV
+* **Last Update:** 29-08-2026
+* **Website:** https://justjibon.com/
+* **Total Channels:** 97
 
 ## ✨ Features
 
-- 🇧🇩 Bangladeshi TV channels
-- ☪️ Islamic TV channels
-- 🇮🇳 Indian Bengali & Hindi channels
-- 📰 News channels
-- 🏏 Sports channels
-- 🎵 Music channels
-- 🧒 Kids & Cartoon channels
-- 📺 HD channels where available
-- 🖼️ Channel logos
-- 🔗 M3U / M3U8 live streams
+* 🇧🇩 Bangladeshi TV channels
+* ☪️ Islamic TV channels
+* 🇮🇳 Indian Bengali & Hindi channels
+* 📰 News channels
+* 🏏 Sports channels
+* 🎵 Music channels
+* 🎬 Movies & entertainment channels
+* 🧒 Kids & Cartoon channels
+* 📺 HD channels where available
+* 🖼️ Channel logos
+* 🔗 M3U / M3U8 live streams
 
 ## 📂 Categories
 
-| Category | Channels |
-|---|---:|
-| 🇧🇩 Bangladesh | 45 |
-| ☪️ Islamic TV | 3 |
-| 🇮🇳 Indian Bangla | 6 |
-| 🎵 Music | 9 |
-| 🏏 Sports | 8 |
-| 📺 Sony | 6 |
-| 📰 News | 8 |
-| 🧒 Kids & Cartoon | 4 |
+| Category                  | Channels |
+| ------------------------- | -------: |
+| 🇧🇩 Bangladesh           |       49 |
+| ☪️ Islamic TV             |        3 |
+| 🇮🇳 Indian               |        7 |
+| 🎵 Music                  |        9 |
+| 🏏 Sports                 |        8 |
+| 🎬 Movies & Entertainment |        9 |
+| 📰 News                   |        8 |
+| 🧒 Kids & Cartoon         |        4 |
+| **Total**                 |   **97** |
 
 ## 📺 Channels
 
@@ -50,105 +52,114 @@ A curated M3U IPTV playlist containing Bangladeshi, Indian, Islamic, sports, mus
 9. Somoy Tv
 10. Independent
 11. Jamuna
-12. Rajdhani
-13. Channel 24
-14. Ekattor HD
-15. DBC News
-16. SA TV
-17. News 24
-18. Deepto
-19. Maasranga
-20. Ananda
-21. G TV
-22. Mohona Tv
-23. Bangla Tv
-24. Bijoy Tv
-25. Nagorik
-26. Asian
-27. Channel S TV
-28. Deepto TV
-29. Jago News 24
-30. RTV Live
-31. Somoy TV
-32. ATN Bangla
-33. ATN News
-34. Channel I
-35. NTV
-36. Bangla Vision
-37. Jamuna TV
-38. DBC News HD
-39. Rajdhani TV
-40. Drama 24
-41. Enter TV
-42. SRK
-43. Jago News 24
-44. ME TV
-45. JonmoBhumi TV
+12. MY TV
+13. Nagorik TV
+14. Asian TV NF
+15. Desh TV
+16. Ekhon TV
+17. Channel 24
+18. Ekattor HD
+19. DBC News
+20. SA TV
+21. News 24
+22. Deepto
+23. Maasranga
+24. Ananda
+25. Rajdhani
+26. G TV
+27. Mohona Tv
+28. Bangla Tv
+29. Bijoy Tv
+30. Nagorik
+31. Asian
+32. Channel S TV
+33. Deepto TV
+34. Jago News 24
+35. RTV Live
+36. Somoy TV
+37. ATN Bangla
+38. ATN News
+39. Channel I
+40. NTV
+41. Bangla Vision
+42. Jamuna TV
+43. DBC News HD
+44. Rajdhani TV
+45. Drama 24
+46. Enter TV
+47. SRK
+48. Jago News 24
+49. ME TV
+50. JonmoBhumi TV
 
 ### ☪️ Islamic TV
 
-46. Iqra Bangla
-47. Quran TV
-48. Iqraa TV
+51. Iqra Bangla
+52. Quran TV
+53. Iqraa TV
 
-### 🇮🇳 Indian Bangla
+### 🇮🇳 Indian
 
-49. Sony Aath
-50. Zee Bangla Cinema
-51. Zee Tv
-52. Zee Cinema HD
-53. Zee Bollywood
-54. HUM TV
+54. Z Bangla WiFi
+55. Zee Bangla Cinema
+56. Zee Tv
+57. Sony Aath
+58. Zee Cinema HD
+59. Zee Bollywood
+60. HUM TV
 
 ### 🎵 Music
 
-55. Sangeet Bangla
-56. 9X Tashan
-57. 9X Jalwa
-58. 9XM Music
-59. PTC Music
-60. Epic Music
-61. Music India
-62. Zoom
-63. yrf Music
+61. Sangeet Bangla
+62. 9X Tashan
+63. 9X Jalwa
+64. 9XM Music
+65. PTC Music
+66. Epic Music
+67. Music India
+68. Zoom
+69. yrf Music
 
 ### 🏏 Sports
 
-64. T Sports
-65. T Sports HD
-66. PTV Sports HD
-67. A Sports HD
-68. Ten Cricket
-69. A Sports HD
-70. Willow Sports
-71. Willow Sports 2
+70. T Sports
+71. T Sports HD
+72. PTV Sports HD
+73. A Sports HD
+74. Ten Cricket
+75. A Sports HD
+76. Willow Sports
+77. Willow Sports 2
 
-### 📺 Sony
+### 🎬 Movies & Entertainment
 
-72. Sony Television
-73. Sony YaY
-74. Sony Television HD
-75. Sony Sab
-76. Ayna TV
-77. B4U Movies
+78. Sony Max HD
+79. Sony Television
+80. Sony YaY
+81. Sony Television HD
+82. Goldmines
+83. Hindi Classic 24
+84. Sony Sab
+85. Ayna TV
+86. B4U Movies
 
 ### 📰 News
 
-78. CNN
-79. DW NEWS
-80. R Plus News
-81. Zee 24 Ghanta
-82. Republic Bangla
-83. TV9 Bangla
-84. Aaj Tak HD
-85. NDTV Hindi
+87. CNN
+88. DW NEWS
+89. R Plus News
+90. Zee 24 Ghanta
+91. Republic Bangla
+92. TV9 Bangla
+93. Aaj Tak HD
+94. NDTV Hindi
 
 ### 🧒 Kids & Cartoon
 
-86. Nikki HD
-87. Cartoon Network
-88. Discovery Kids
-89. Pogo
+95. Nikki HD
+96. Cartoon Network
+97. Discovery Kids
+98. Pogo
 
 ## ▶️ How to Use
 
@@ -164,15 +175,30 @@ A curated M3U IPTV playlist containing Bangladeshi, Indian, Islamic, sports, mus
 
 The playlist can be used with M3U-compatible IPTV applications such as:
 
-- VLC
-- Kodi
-- TiviMate
-- OTT Navigator
-- IPTV Smarters
-- Other M3U-compatible players
+* VLC
+* Kodi
+* TiviMate
+* OTT Navigator
+* IPTV Smarters
+* Other M3U-compatible players
 
 ## ℹ️ Notes
 
-- Channel names are listed in the same order as the current M3U playlist.
-- Stream availability depends on the individual source/server.
-- This README intentionally does not display individual stream URLs.
+* Channel names are listed in the same order as the current M3U playlist.
+* Some channels may appear more than once because they use different stream sources.
+* Stream availability depends on the individual source/server.
+* Some channels may be temporarily unavailable or offline.
+* This README intentionally does not display individual stream URLs.
+
+## 🔗 Playlist
+
+**Raw M3U Playlist:**
+https://raw.githubusercontent.com/justjibon/NAZ-IPTV/main/playlist.m3u
+
+---
+
+### About
+
+NAZ IPTV is a personal curated IPTV playlist maintained by **justjibon**.
+
+Website: https://justjibon.com/
