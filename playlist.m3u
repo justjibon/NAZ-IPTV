@@ -6,8 +6,8 @@
 
 # ───────────  Bangladesh ───────────
 
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",BTV 
-https://akash.sm-monirul.top/btv.m3u8
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",BTV
+https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
@@ -15,8 +15,8 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Channel 1 
-https://akash.sm-monirul.top/channel_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Channel 1
+https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_1.m3u8
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
