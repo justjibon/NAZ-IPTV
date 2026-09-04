@@ -6,7 +6,7 @@ A curated M3U IPTV playlist featuring Bangladeshi, Indian, Islamic, sports, musi
 
 * **Playlist:** NAZ IPTV
 * **Last Update:** 04-09-2026
-* **Total Channels:** 116
+* **Total Channels:** 132
 * **Website:** https://justjibon.com/
 
 ## ✨ Features
@@ -29,13 +29,13 @@ A curated M3U IPTV playlist featuring Bangladeshi, Indian, Islamic, sports, musi
 | --- | ---: |
 | 🇧🇩 Bangladesh | 56 |
 | ☪️ Islamic TV | 3 |
-| 🇮🇳 Indian | 7 |
+| 🇮🇳 Indian | 10 |
 | 🎵 Music | 10 |
-| 🏏 Sports | 8 |
+| 🏏 Sports | 17 |
 | 🎬 Movies & Entertainment | 10 |
 | 📰 News | 16 |
 | 🧒 Kids & Cartoon | 6 |
-| **Total** | **116** |
+| **Total** | **132** |
 
 ## 📺 Channels
 
@@ -51,7 +51,7 @@ A curated M3U IPTV playlist featuring Bangladeshi, Indian, Islamic, sports, musi
 8. Channel I
 9. Ekushey ETV
 10. N TV
-11. Banglavision
+11. Bangla Vision
 12. Somoy Tv
 13. Independent
 14. Jamuna
@@ -106,78 +106,94 @@ A curated M3U IPTV playlist featuring Bangladeshi, Indian, Islamic, sports, musi
 
 ### 🇮🇳 Indian
 
-60. Z Bangla WiFi
-61. Zee Bangla Cinema
-62. Zee Tv
-63. Sony Aath
-64. Zee Cinema HD
-65. Zee Bollywood
-66. HUM TV
+60. Star Jalsha HD
+61. Zee Bangla HD
+62. Zee Bangla Cinema
+63. Zee Tv
+64. Sony Aath
+65. Zee Cinema HD
+66. Zee Bollywood
+67. HUM TV
+68. Zee Cinema HD
+69. Zee Bollywood
 
 ### 🎵 Music
 
-67. Sangeet Bangla
-68. 9X Tashan
-69. 9X Jalwa
-70. 9XM Music
-71. PTC Music
-72. Epic Music
-73. Music India
-74. Zoom
-75. yrf Music
-76. MTV
+70. Sangeet Bangla
+71. 9X Tashan
+72. 9X Jalwa
+73. 9XM Music
+74. PTC Music
+75. Epic Music
+76. Music India
+77. Zoom
+78. yrf Music
+79. MTV
 
 ### 🏏 Sports
 
-77. T Sports
-78. T Sports HD
-79. PTV Sports HD
-80. A Sports HD
-81. Ten Cricket
-82. A Sports HD
-83. Willow Sports
-84. Willow Sports 2
+80. T Sports
+81. T Sports HD
+82. PTV Sports HD
+83. A Sports HD
+84. Ten Cricket
+85. A Sports HD
+86. Willow Sports
+87. Euro Sports HD
+88. Star Sports 1
+89. Star Sports 2
+90. Star Sports SL 1
+91. Star Sports SL 2
+92. Sony Ten 1
+93. Sony Ten 2
+94. Sony Ten 5
+95. Willow Sports
+96. Willow Sports 2
 
 ### 🎬 Movies & Entertainment
 
-85. Sony Max HD
-86. Sony Television
-87. Sony YaY
-88. Sony Television HD
-89. Goldmines
-90. Hindi Classic 24
-91. Sony Sab
-92. Ayna TV
-93. B4U Movies
-94. Manoranjan TV
+97. Sony Max HD
+98. Sony Television
+99. Sony Television HD
+100. Sony Television
+101. Sony Max 2
+102. Sony Sab HD
+103. Sony YaY
+104. Sony Television HD
+105. Goldmines
+106. Hindi Classic 24
 
 ### 📰 News
 
-95. CNN
-96. DW NEWS
-97. R Plus News
-98. Zee 24 Ghanta
-99. Republic Bangla
-100. TV9 Bangla
-101. Aaj Tak HD
-102. NDTV Hindi
-103. Discovery HD
-104. HBO
-105. HBO 2
-106. HISTORY TV
-107. EPIX TV
-108. Fox 5
-109. Fox News
-110. ABC News
+107. Sony Sab
+108. Ayna TV
+109. B4U Movies
+110. Manoranjan TV
+111. CNN
+112. DW NEWS
+113. R Plus News
+114. Zee 24 Ghanta
+115. Republic Bangla
+116. TV9 Bangla
+117. Aaj Tak HD
+118. NDTV Hindi
+119. Discovery HD
+120. HBO
+121. HBO 2
+122. HISTORY TV
+123. EPIX TV
+124. Fox 5
+125. Fox News
+126. ABC News
 
 ### 🧒 Kids & Cartoon
 
-111. Nikki HD
-112. Cartoon Network
-113. Discovery Kids
-114. Pogo
-115. YTV [PAID]
-116. Disney
+127. Nikki HD
+128. Cartoon Network
+129. Discovery Kids
+130. Pogo
+131. YTV [PAID]
+132. Disney
 
 ## ▶️ How to Use
 
